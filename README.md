@@ -1,4 +1,4 @@
-# 📈 Trading with Reinforcement Learning  
+# 📈 Algorithmic Trading with Reinforcement Learning
 
 ## 📝 Project Overview  
 This academic group project explores the application of **Reinforcement Learning (RL)** and statistical models to develop automated trading strategies for **Coca-Cola stock (KO)**. The goal was to maximize portfolio returns by leveraging historical market data and advanced machine learning techniques.
