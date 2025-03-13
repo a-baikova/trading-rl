@@ -3,7 +3,7 @@
 ## 📝 Project Overview  
 This academic group project explores the application of **Reinforcement Learning (RL)** and statistical models to develop automated trading strategies for **Coca-Cola stock (KO)**. The goal was to maximize portfolio returns by leveraging historical market data and advanced machine learning techniques.
 
-![image](https://github.com/user-attachments/assets/81923145-593a-40ca-9ba5-6d05bf834aac)
+![image](https://github.com/user-attachments/assets/c0c0db38-44bf-471f-98b1-b9ed9ac2e3dc)
 
 ## 💡 Methodology  
 - **Data Extraction**: Historical stock data was obtained using the `yfinance` library for the period between January 2019 and October 2024.  
